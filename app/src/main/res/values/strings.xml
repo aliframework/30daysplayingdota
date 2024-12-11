@@ -1,0 +1,57 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">30 Days Playing Dota</string>
+
+    <!-- Date -->
+    <string name="date1">Hari Pertama Bermain dengan Axe</string>
+    <string name="date2">Hari Kedua Bermain dengan Invoker</string>
+    <string name="date3">Hari Ketiga Bermain dengan Crystal Maiden</string>
+    <string name="date4">Hari Keempat Bermain dengan Earthshaker</string>
+    <string name="date5">Hari Kelima Bermain dengan Drow Ranger</string>
+    <string name="date6">Hari Keenam Bermain dengan Tinker</string>
+    <string name="date7">Hari Ketujuh Bermain dengan Anti-Mage</string>
+    <string name="date8">Hari Kedelapan Bermain dengan Mirana</string>
+    <string name="date9">Hari Kesembilan Bermain dengan Axe</string>
+    <string name="date10">Hari Kesepuluh Bermain dengan Invoker</string>
+    <string name="date11">Hari Kesebelas Bermain dengan Crystal Maiden</string>
+    <string name="date12">Hari Keduabelas Bermain dengan Earthshaker</string>
+    <string name="date13">Hari Ketigabelas Bermain dengan Drow Ranger</string>
+    <string name="date14">Hari Keempatbelas Bermain dengan Tinker</string>
+    <string name="date15">Hari Kelimabelas Bermain dengan Anti-Mage</string>
+    <string name="date16">Hari Keenambelas Bermain dengan Mirana</string>
+    <string name="date17">Hari Ketujuhbelas Bermain dengan Axe</string>
+    <string name="date18">Hari Kedelapanbelas Bermain dengan Invoker</string>
+    <string name="date19">Hari Kesembilanbelas Bermain dengan Crystal Maiden</string>
+    <string name="date20">Hari Kedua Puluh Bermain dengan Earthshaker</string>
+    <string name="date21">Hari Kedua Puluh Satu Bermain dengan Drow Ranger</string>
+    <string name="date22">Hari Kedua Puluh Dua Bermain dengan Tinker</string>
+    <string name="date23">Hari Kedua Puluh Tiga Bermain dengan Anti-Mage</string>
+    <string name="date24">Hari Kedua Puluh Empat Bermain dengan Mirana</string>
+    <string name="date25">Hari Kedua Puluh Lima Bermain dengan Axe</string>
+    <string name="date26">Hari Kedua Puluh Enam Bermain dengan Invoker</string>
+    <string name="date27">Hari Kedua Puluh Tujuh Bermain dengan Crystal Maiden</string>
+    <string name="date28">Hari Kedua Puluh Delapan Bermain dengan Earthshaker</string>
+    <string name="date29">Hari Kedua Puluh Sembilan Bermain dengan Drow Ranger</string>
+    <string name="date30">Hari Ketiga Puluh Bermain dengan Tinker</string>
+
+    <!-- Hero Names -->
+    <string name="hero1">Axe</string>
+    <string name="hero2">Invoker</string>
+    <string name="hero3">Crystal Maiden</string>
+    <string name="hero4">Earthshaker</string>
+    <string name="hero5">Drow Ranger</string>
+    <string name="hero6">Tinker</string>
+    <string name="hero7">Anti-Mage</string>
+    <string name="hero8">Mirana</string>
+
+    <!-- Hero Descriptions -->
+    <string name="hero_description1">A powerful tank hero with strong initiation abilities.</string>
+    <string name="hero_description2">Invoker is a versatile spellcaster with many abilities to adapt to any situation.</string>
+    <string name="hero_description3">Crystal Maiden is a ranged support hero with abilities that provide crowd control and mana regeneration.</string>
+    <string name="hero_description4">Earthshaker is a support hero with strong area-of-effect abilities and crowd control potential.</string>
+    <string name="hero_description5">Drow Ranger is a ranged agility hero with strong damage output and a silencing ability.</string>
+    <string name="hero_description6">Tinker is a brilliant inventor with powerful nukes and the ability to constantly reposition with rearm.</string>
+    <string name="hero_description7">Anti-Mage is a mobility-focused hero with the ability to burn mana and avoid magic damage.</string>
+    <string name="hero_description8">Mirana is a versatile hero with ranged damage, a powerful arrow stun, and mobility skills.</string>
+
+</resources>
